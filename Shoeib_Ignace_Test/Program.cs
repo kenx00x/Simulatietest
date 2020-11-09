@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Shoeib_Ignace_Test
+namespace Simulatietest
 {
     class Program
     {
