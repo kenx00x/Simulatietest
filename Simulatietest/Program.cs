@@ -59,6 +59,7 @@ namespace Simulatietest
                     }
                     break;
                 default:
+                    Console.WriteLine("Verkeerde invoer");
                     break;
             }
         }
